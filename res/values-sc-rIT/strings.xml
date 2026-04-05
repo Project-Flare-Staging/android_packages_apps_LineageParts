@@ -435,17 +435,6 @@
     <string name="preview_carrier_title">Operadore</string>
     <string name="stats_collection_title">Regollida istatìsticas</string>
     <string name="stats_collection_summary">Permite sa regollida de mètricas de installatzione e de istatìsticas de su dispositivu </string>
-    <string name="accelerometer_title">Rotatzione automàtica de s\'ischermu</string>
-    <string name="display_rotation_title">Cunfiguratziones de rotatzione</string>
-    <string name="display_rotation_enabled">Rotatzione automàtica ativada</string>
-    <string name="display_rotation_disabled">Rotatzione automàtica disativada</string>
-    <string name="display_rotation_unit">grados</string>
-    <string name="display_lockscreen_rotation_title">Rotatzione de s\'ischermu de blocu</string>
-    <string name="display_rotation_category_title">Modalidades de rotatzione</string>
-    <string name="display_rotation_0_title">0 grados</string>
-    <string name="display_rotation_90_title">90 grados</string>
-    <string name="display_rotation_180_title">180 grados</string>
-    <string name="display_rotation_270_title">270 grados</string>
     <string name="long_screen_settings_title">Aplicatziones a ischermu prenu</string>
     <string name="long_screen_settings_summary">Fortza is aplicatziones a impreare s\'ischermu intreu </string>
     <string name="long_screen_settings_no_apps">Nissuna aplicatzione</string>

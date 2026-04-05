@@ -439,17 +439,6 @@
     <string name="preview_carrier_title">اپراتور</string>
     <string name="stats_collection_title">جمع‌آوری آمار</string>
     <string name="stats_collection_summary">اجازهٔ جمع‌آوری اندازه‌های نصب و آمار دستگاه</string>
-    <string name="accelerometer_title">چرخش خودکار صفحه</string>
-    <string name="display_rotation_title">تنظیمات چرخش</string>
-    <string name="display_rotation_enabled">چرخش خودکار فعال</string>
-    <string name="display_rotation_disabled">چرخش خودکار غیرفعال</string>
-    <string name="display_rotation_unit">درجه</string>
-    <string name="display_lockscreen_rotation_title">چرخش صفحهٔ قفل</string>
-    <string name="display_rotation_category_title">حالت‌های چرخش</string>
-    <string name="display_rotation_0_title">۰ درجه</string>
-    <string name="display_rotation_90_title">۹۰ درجه</string>
-    <string name="display_rotation_180_title">۱۸۰ درجه</string>
-    <string name="display_rotation_270_title">۲۷۰ درجه</string>
     <string name="long_screen_settings_title">برنامه های تمام صفحه</string>
     <string name="long_screen_settings_summary">برنامه های قدیمی را مجبور کنید از نسبت تصویر تمام صفحه استفاده کنند</string>
     <string name="long_screen_settings_no_apps">بدون برنامه</string>

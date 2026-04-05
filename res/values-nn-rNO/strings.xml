@@ -437,17 +437,6 @@
     <string name="preview_carrier_title">Mobiloperatør</string>
     <string name="stats_collection_title">Innsamling av statistikk</string>
     <string name="stats_collection_summary">Tillat innsamling av statistikk om installasjonar og einingar</string>
-    <string name="accelerometer_title">Roter skjermen automatisk</string>
-    <string name="display_rotation_title">Innstillingar for rotering</string>
-    <string name="display_rotation_enabled">Automatisk rotering er på</string>
-    <string name="display_rotation_disabled">Automatisk rotering er av</string>
-    <string name="display_rotation_unit">grader</string>
-    <string name="display_lockscreen_rotation_title">Roter låseskjermen</string>
-    <string name="display_rotation_category_title">Rotasjonsmodusar</string>
-    <string name="display_rotation_0_title">0 grader</string>
-    <string name="display_rotation_90_title">90 grader</string>
-    <string name="display_rotation_180_title">180 grader</string>
-    <string name="display_rotation_270_title">270 grader</string>
     <string name="long_screen_settings_title">Fullskjerm-appar</string>
     <string name="long_screen_settings_summary">Tving eldre appar til å bruka storleiksforholdet for fullskjerm</string>
     <string name="long_screen_settings_no_apps">Ingen appar</string>

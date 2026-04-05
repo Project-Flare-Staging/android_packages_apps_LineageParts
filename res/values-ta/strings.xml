@@ -315,10 +315,6 @@
     <string name="anonymous_statistics_title">LineageOS புள்ளிவிவரங்கள்</string>
     <string name="anonymous_statistics_warning_title">அறிமுகம்</string>
     <string name="preview_country_title">நாடு</string>
-    <string name="display_rotation_0_title">0 பாகைகள்</string>
-    <string name="display_rotation_90_title">90 பாகைகள்</string>
-    <string name="display_rotation_180_title">180 பாகைகள்</string>
-    <string name="display_rotation_270_title">270 பாகைகள்</string>
     <string name="long_screen_settings_no_apps">செயலிகள் இல்லை</string>
     <string name="charging_sounds_settings_title">மின்னேற்ற ஒலிகள்</string>
     <string name="charging_sounds_enable_title">மின்னேற்ற ஒலிகளை இயக்குக</string>

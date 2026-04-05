@@ -439,17 +439,6 @@
     <string name="preview_carrier_title">مۇلازىمەت تەمىنلىگۈچى</string>
     <string name="stats_collection_title">ئىستاتىستىكا توپلىمى</string>
     <string name="stats_collection_summary">ئورنىتىش ئۆلچىمى ۋە ئۈسكۈنىنى ئىستاتىستىكا قىلىشقا يول قويىدۇ</string>
-    <string name="accelerometer_title">ئېكراننى ئۆزلۈكىدىن ئايلاندۇر</string>
-    <string name="display_rotation_title">ئايلاندۇرۇش تەڭشىكى</string>
-    <string name="display_rotation_enabled">ئۆزلۈكىدىن ئايلاندۇرۇش قوزغىتىلغان</string>
-    <string name="display_rotation_disabled">ئۆزلۈكىدىن ئايلاندۇرۇش چەكلەنگەن</string>
-    <string name="display_rotation_unit">گىرادۇس</string>
-    <string name="display_lockscreen_rotation_title">قۇلۇپ ئېكرانىنى ئايلاندۇر</string>
-    <string name="display_rotation_category_title">ئايلاندۇرۇش ھالىتى</string>
-    <string name="display_rotation_0_title">0 گىرادۇس</string>
-    <string name="display_rotation_90_title">90 گىرادۇس</string>
-    <string name="display_rotation_180_title">180 گىرادۇس</string>
-    <string name="display_rotation_270_title">270 گىرادۇس</string>
     <string name="long_screen_settings_title">پۈتۈن ئېكران ئەپ</string>
     <string name="long_screen_settings_summary">كونا ئەپلەرنى پۈتۈن ئېكران تەرەپ نىسبىتى ئىشلىتىشكە مەجبۇرلايدۇ</string>
     <string name="long_screen_settings_no_apps">ئەپ يوق</string>
