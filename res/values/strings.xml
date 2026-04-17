@@ -629,9 +629,6 @@
     <string name="touchscreen_gesture_action_volume_up">Raise media volume</string>
     <string name="touchscreen_gesture_action_ambient_display">Show ambient display</string>
 
-    <!-- Egg: Title for the easter egg activity -->
-    <string name="egg_title" translatable="false">LineageOS Easter Egg</string>
-
     <!-- Trust interface -->
     <string name="trust_title" translatable="false">@*flare.platform:string/trust_feature_name</string>
     <string name="trust_category_features">Status</string>
